@@ -1,4 +1,4 @@
-# Red Hot Code
+# Code Heat
 
 An IntelliJ IDEA plugin that reveals defect hotspots from repository history by correlating Git changes with Jira bug issues.
 
